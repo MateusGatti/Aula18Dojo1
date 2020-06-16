@@ -1,0 +1,13 @@
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.exe
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.deps.json
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.runtimeconfig.json
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.runtimeconfig.dev.json
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.dll
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.pdb
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.csprojAssemblyReference.cache
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.csproj.CoreCompileInputs.cache
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.AssemblyInfoInputs.cache
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.AssemblyInfo.cs
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.dll
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.pdb
+C:\Users\mtgat\Documents\Projetos\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.genruntimeconfig.cache
