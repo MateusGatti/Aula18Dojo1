@@ -7,20 +7,32 @@ namespace Aula18Dojo1
         static void Main(string[] args)
         {
             
-            Jogador neymar = new Jogador();
-            neymar.Nome = "Neymar";
+            Jogador jogador = new Jogador();
+            jogador.Peso = 75f;
+            jogador.Altura = 1.80f;
+            jogador.Nacionalidade = "Brasileiro";
 
-            neymar.Peso = 85f;
 
-            neymar.Altura = 1.80f;
+            System.Console.WriteLine("Digite o nome do jogador:");
+            jogador.Nome = Console.ReadLine();
+            Console.Clear();
 
-            neymar.Posicao = "Atacante";
+            System.Console.WriteLine("Digite a data de nascimento do jogador:");
+            jogador.Nascimento = DateTime.Parse( Console.ReadLine() );
+            Console.Clear();
 
-            neymar.Nascimento = DateTime.Parse( "15/08/1989" );
+            System.Console.WriteLine("Digite a posição do jogador:");
+            jogador.Posicao = Console.ReadLine();
+            Console.Clear();
+            
+            System.Console.WriteLine($"O jogador tem {jogador.CalcularIdade()} anos");
+            System.Console.WriteLine( jogador.VerificarAposentadoria() );
+
 
             
-            System.Console.WriteLine(neymar.CalcularIdade());
-            System.Console.WriteLine(neymar.VerificarAposentadoria());
+            
+            
+            
 
         }
     }
